@@ -1,43 +1,45 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
-<h3 align="center">💻 Software Engineer | 🎮 FPS Gamer | 🚀 Tech Explorer</h3>
+<h3 align="center">💻 Software Engineer | 🎮 FPS Gamer | 🚀 Performance Enthusiast</h3>
 
 ---
 
-# 👨‍💻 About Me:
-💼 Software Engineer passionate about building scalable & creative solutions  
-🎯 Competitive FPS Player | Valorant Enthusiast  
+# 👨‍💻 About Me
+
+💼 Software Engineer passionate about writing efficient and scalable software  
+🎮 Competitive FPS Player | Valorant & FPS Games  
 🧠 Regular LeetCode Problem Solver  
-🖥️ Interested in Coding, Software Engineering & System Design  
-⚙️ PC Tweaks | Laptop Optimization | Performance Geek  
-📚 Lifelong Learner | Always upgrading myself like a firmware patch  
+💻 Interested in Software Engineering, System Design & Optimization  
+⚙️ PC Tweaks | Laptop Performance Tuning | Hardware Aware  
+📚 Constantly learning and upgrading skills  
 
 ---
 
-# 🏆 GitHub Trophies:
+## 🎯 Professional Focus
+
+- Software Development & Engineering  
+- Data Structures & Algorithms (LeetCode Practice)  
+- System Optimization & Performance Tuning  
+- Web & Application Development  
+- Hardware and Performance Tweaks  
+
+---
+
+# 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=tusharsb011-ctrl&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-# 👾 Contribution Pacman:
+# 👾 Contribution Pacman
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/tusharsb011-ctrl/tusharsb011-ctrl/output/pacman-contribution-graph.svg" alt="Pacman contribution graph">
 </p>
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/H2wZdX9Y)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@classic__harsh)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@classic__harsh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@classic__harsh)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@classic__harsh)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@classic__harsh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@harshfpss)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:igxharsh6@gmail.com)
+# 💻 Tech Stack
 
----
-
-# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,25 +55,25 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=tusharsb011-ctrl&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=tusharsb011-ctrl&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsb011-ctrl&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsb011-ctrl&theme=radical&layout=compact)
 
 ---
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
 
-### 🚀 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tusharsb011-ctrl&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 💡 Personal Motto
 
----
-
-### 🧩 Fun Fact
-> I optimize code and PCs with the same energy ⚡  
-> If it lags, it gets debugged.
+> Optimize your code.  
+> Optimize your system.  
+> Optimize yourself.
